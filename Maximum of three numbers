@@ -1,0 +1,11 @@
+#Write a Python program to find and display the maximum of three given numbers.
+
+a = int(input("Enter first number:"))
+b = int(input("Enter second number:"))
+c = int(input("Enter third number:"))
+if((a>b)and(a>c)):
+    print("The maximum among the three numbers is:",a)
+elif((b>a)and(b>c)):
+    print("The maximum among the three numbers is:",b)
+else:
+    print("The maximum among the three numbers is:",c)

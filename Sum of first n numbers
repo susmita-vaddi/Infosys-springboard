@@ -1,8 +1,0 @@
-'''Exercise -2
-Write a Python function,
-find_sum() that accepts an integer n and returns the sum of first n numbers. Invoke the function and display the sum of first n numbers.'''
-
-n = int(input("Enter an integer:"))
-def find_sum(n):
-    return (n*(n+1))//2
-print("The sum of first n numbers:",find_sum(n))

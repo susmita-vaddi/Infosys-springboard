@@ -1,2 +1,2 @@
 # Infosys-springboard
-Practice problems of python developer certification course provided by Infosys
+Practice problems of the courses provided by Infosys
